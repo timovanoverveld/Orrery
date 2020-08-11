@@ -6,4 +6,4 @@
 
 # This project
 
-This project is about the design and optimization of the mechanical orrery, inspired by designs from [Zeamon](http://zeamon.com/wordpress/?p=670), [Staines & Son] (https://www.orrerydesign.com/), [Induku](https://indukudesign.com/2018/02/15/orrery/) and [J. Turner](https://www.turnercreativity.com/projects/orrery/).
+This project is about the design and optimization of the mechanical orrery, inspired by designs from [Zeamon](http://zeamon.com/wordpress/?p=670), [Staines & Son](https://www.orrerydesign.com/), [Induku](https://indukudesign.com/2018/02/15/orrery/) and [J. Turner](https://www.turnercreativity.com/projects/orrery/).
